@@ -1,8 +1,15 @@
-# React + Vite
+# REACT SPOTIFY ⚛️
+Demo: [https://aef-nattanon.github.io/react-spotify-clone/](https://aef-nattanon.github.io/react-spotify-clone/)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Clone of the [Spotify Web Player](https://open.spotify.com/) using **React** & **TailwindCSS**.
 
-Currently, two official plugins are available:
+![](./design/screenshots/home.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## API
+
+Spotify's [Web API](https://developer.spotify.com/documentation/web-api) allows the development of applications that can interact with Spotify's streaming service. This includes retrieving content metadata, obtaining recommendations, creating and managing playlists, and controlling playback.
+
+## TECH STACK
+
+- [**React**](https://react.dev/) & [React router](https://reactrouter.com/en/main)
+- [**TailwindCSS**](https://tailwindcss.com/)
