@@ -3,7 +3,40 @@ Demo: [https://aef-nattanon.github.io/react-spotify-clone/](https://aef-nattanon
 
 Clone of the [Spotify Web Player](https://open.spotify.com/) using **React** & **TailwindCSS**.
 
+## How to install
+### Clone repo
+
+```cmd
+git clone https://github.com/aef-nattanon/react-spotify-clone.git
+```
+
+### Install dependencies
+
+```cmd
+yarn install
+# or
+npm install
+```
+
+### Run project
+
+- add `.env` file with `.env.template`
+
+```env
+VITE_API_CLIENT_ID=**you spotify client id**
+VITE_API_CLIENT_SECRET=**you spotify client secret**
+```
+
+
+- start project
+```cmd
+yarn run dev
+# or
+npm run dev
+```
+
 ![](./design/screenshots/home.png)
+
 
 ## API
 
