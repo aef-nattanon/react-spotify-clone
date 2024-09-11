@@ -18,9 +18,9 @@ yarn install
 npm install
 ```
 
-### Run project
+### Run the project
 
-- add `.env` file with `.env.template`
+- add the `.env` file using the provided `.env.template`
 
 ```env
 VITE_API_CLIENT_ID=**you spotify client id**
